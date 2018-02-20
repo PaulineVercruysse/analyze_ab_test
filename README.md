@@ -1,0 +1,2 @@
+# analyze_ab_test
+Introduction A/B tests are very commonly performed by data analysts and data scientists. For this project, I am working to understand the results of an A/B test run by an e-commerce website. The goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision. The results of the A/B test are analyzed by 3 methods: hypothesis testing and sampling distribution, statistical z-test, and regression.
